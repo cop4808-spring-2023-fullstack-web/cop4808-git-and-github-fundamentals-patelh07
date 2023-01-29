@@ -1,5 +1,5 @@
 
-HARSH PATEL 
+<h1>HARSH PATEL</h1> 
 
 # :wave: The Basics of GitHub 
 
